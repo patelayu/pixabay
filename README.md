@@ -1,16 +1,7 @@
 # pixabayapp
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230428_141058](https://user-images.githubusercontent.com/121868302/235102771-3d06dc88-f036-4c69-b767-cfd10756d9ec.png)
+![Screenshot_20230428_141143](https://user-images.githubusercontent.com/121868302/235102801-37f8e530-b7dc-4fc1-9190-0b304bdfb28b.png)
+![Screenshot_20230428_141419](https://user-images.githubusercontent.com/121868302/235102833-138e1e77-dc45-4721-920f-87759bb784d7.png)
