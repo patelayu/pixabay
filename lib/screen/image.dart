@@ -20,9 +20,9 @@ class _HomePageState extends State<HomePage> {
     double w = MediaQuery.of(context).size.width;
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Wallpapers App"),
-        centerTitle: true,
-        backgroundColor: Colors.black,
+        title: const Text("Pixabay Lite ",style: TextStyle(color: Colors.black)),
+
+        backgroundColor: Color(0xffB1907F),
       ),
       body: Center(
         child: Column(
@@ -112,7 +112,7 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
-      backgroundColor: Colors.black,
+      backgroundColor: Color(0xff483C32),
     );
   }
 }
